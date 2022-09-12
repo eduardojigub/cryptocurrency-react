@@ -4,7 +4,7 @@
 
 - Creating a SPA using ReactJS
 - Create functional components in React
-- Use props and handling functions to interate with the page. 
+- Use props and handling functions to interact with the page. 
 - Request an api from https://coinstats.app/pt/
 - Filtering results using Hooks
 - Using Hooks as UseEffect and UseState
